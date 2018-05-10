@@ -44,6 +44,6 @@ def main():
               [-12,4,75,22,16],
               [7,5,13,65,9]]"""
     gaussiana(matrix, 2)
-    equix(matrix)
+    #equix(matrix)
 
 main()
